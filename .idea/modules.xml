@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-1/Java as a programming language/Java as a programming language.iml" filepath="$PROJECT_DIR$/Week-1/Java as a programming language/Java as a programming language.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Thersday/Thersday.iml" filepath="$PROJECT_DIR$/Week-1/Thersday/Thersday.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week-1/Tusday/Tusday.iml" filepath="$PROJECT_DIR$/Week-1/Tusday/Tusday.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Wedensday/Wedensday.iml" filepath="$PROJECT_DIR$/Week-1/Wedensday/Wedensday.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Week-1.iml" filepath="$PROJECT_DIR$/Week-1/Week-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-2/Week-2.iml" filepath="$PROJECT_DIR$/Week-2/Week-2.iml" />
