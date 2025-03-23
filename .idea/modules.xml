@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week-1/Control structures/Control structures.iml" filepath="$PROJECT_DIR$/Week-1/Control structures/Control structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Java as a programming language/Java as a programming language.iml" filepath="$PROJECT_DIR$/Week-1/Java as a programming language/Java as a programming language.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Variables, input and output/Variables, input and output.iml" filepath="$PROJECT_DIR$/Week-1/Variables, input and output/Variables, input and output.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week-1/Wedensday/Wedensday.iml" filepath="$PROJECT_DIR$/Week-1/Wedensday/Wedensday.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Week-1.iml" filepath="$PROJECT_DIR$/Week-1/Week-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-2/Week-2.iml" filepath="$PROJECT_DIR$/Week-2/Week-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-3/Week-3.iml" filepath="$PROJECT_DIR$/Week-3/Week-3.iml" />
