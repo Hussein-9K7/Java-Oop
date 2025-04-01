@@ -2,10 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Week-1/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Week-1/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Associati-on/Associati-on.iml" filepath="$PROJECT_DIR$/Week-2/Associati-on/Associati-on.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Association/Association.iml" filepath="$PROJECT_DIR$/Week-2/Association/Association.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-1/Arrays/ClassANDObject.iml" filepath="$PROJECT_DIR$/Week-1/Arrays/ClassANDObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/ClassAndObject/ClassAndObject.iml" filepath="$PROJECT_DIR$/Week-2/ClassAndObject/ClassAndObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Collecti-ons/Collecti-ons.iml" filepath="$PROJECT_DIR$/Week-2/Collecti-ons/Collecti-ons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Collectio-ns/Collectio-ns.iml" filepath="$PROJECT_DIR$/Week-2/Collectio-ns/Collectio-ns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Collections/Collections.iml" filepath="$PROJECT_DIR$/Week-2/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Control structures/Control structures.iml" filepath="$PROJECT_DIR$/Week-1/Control structures/Control structures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Java as a programming language/Java as a programming language.iml" filepath="$PROJECT_DIR$/Week-1/Java as a programming language/Java as a programming language.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Task-1/Task-1.iml" filepath="$PROJECT_DIR$/Week-2/Task-1/Task-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Task-2/Task-2.iml" filepath="$PROJECT_DIR$/Week-2/Task-2/Task-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Task-3/Task-3.iml" filepath="$PROJECT_DIR$/Week-2/Task-3/Task-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/Task-4/Task-4.iml" filepath="$PROJECT_DIR$/Week-2/Task-4/Task-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/ClassAndObject/Task1/Task1.iml" filepath="$PROJECT_DIR$/Week-2/ClassAndObject/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/ClassAndObject/Task4/Task4.iml" filepath="$PROJECT_DIR$/Week-2/ClassAndObject/Task4/Task4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/ClassAndObject/TaskFour/TaskFour.iml" filepath="$PROJECT_DIR$/Week-2/ClassAndObject/TaskFour/TaskFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/ClassAndObject/TaskOne/TaskOne.iml" filepath="$PROJECT_DIR$/Week-2/ClassAndObject/TaskOne/TaskOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/ClassAndObject/TaskThree/TaskThree.iml" filepath="$PROJECT_DIR$/Week-2/ClassAndObject/TaskThree/TaskThree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2/ClassAndObject/TaskTow/TaskTow.iml" filepath="$PROJECT_DIR$/Week-2/ClassAndObject/TaskTow/TaskTow.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Variables, input and output/Variables, input and output.iml" filepath="$PROJECT_DIR$/Week-1/Variables, input and output/Variables, input and output.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Week-1.iml" filepath="$PROJECT_DIR$/Week-1/Week-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-2/Week-2.iml" filepath="$PROJECT_DIR$/Week-2/Week-2.iml" />
