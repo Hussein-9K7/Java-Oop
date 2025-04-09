@@ -1,0 +1,37 @@
+Real-World Operational System: Bank
+Variability:
+Number of Customers: The number of customers visiting the bank varies each day. On some days,
+there may be congestion during specific times, such as the beginning of the month or after holidays.
+
+Types of Transactions: The transactions carried out by customers vary. Some customers may come only for withdrawals,
+ while others may come to deposit, apply for loans, or exchange currency.
+
+Transaction Time: The time it takes for a customer to complete a transaction differs based on the type of transaction.
+For example, withdrawing money takes less time than opening an account or discussing a loan.
+
+Complexity:
+Account Management: The bank must manage numerous accounts and currencies. There should be a system to track financial transactions,
+ calculate interest, and ensure account security.
+
+Staff Management: The bank needs to coordinate employees in different roles such as cashiers,
+loan officers, customer service, and security. Organizing work between these employees is complex to ensure smooth operations.
+
+Technology System: The bank relies on computer systems for performing transactions, keeping records,
+and executing calculations. Any malfunction in the technological system can significantly affect daily banking operations.
+
+Interconnectedness:
+Customer and Employee Interaction: Customer behavior directly impacts the workflow. For example,
+if there are many customers in one queue, it may cause delays for other transactions. Employees must also cooperate to meet customer needs.
+
+Banking Systems: Transactions between the bank and customers are interconnected with other systems,
+such as payment systems or credit card services. Any malfunction in one of these systems could affect the entire bank’s operations.
+
+Financial Resources: Banks are closely linked with financial markets. When changes happen in financial markets,
+like currency fluctuations or interest rate changes, these can affect the bank's operations.
+
+Conclusion:
+The banking system involves many factors that make it complex. Variations in customer numbers, transaction types,
+and transaction times all affect how operations run. Coordination between employees and the use of technology
+for transactions presents significant challenges. In the end, the interaction between customers, employees,
+and the technological system helps improve workflow in the bank.
+
