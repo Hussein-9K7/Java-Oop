@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/8"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="assignment4_notebook.NoteController"
+      spacing="10" alignment="TOP_CENTER" padding="20">
+
+    <TextField fx:id="titleField" promptText="Enter note title" />
+    <TextArea fx:id="contentArea" promptText="Enter note content" prefRowCount="5" />
+    <Button text="Add" onAction="#handleAddNote" />
+    <Label fx:id="outputLabel" wrapText="true" />
+
+</VBox>
